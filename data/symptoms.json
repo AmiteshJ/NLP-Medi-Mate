@@ -1,0 +1,120 @@
+{
+  "headache": {
+    "label": "Headache",
+    "synonyms": ["headache", "head ache", "head hurts", "head hurting", "head pounding", "migraine", "head is killing me", "pain in my head", "head aching"],
+    "body_parts": ["head"],
+    "remedies": [
+      "Rest in a quiet, dim room",
+      "Stay well hydrated",
+      "Apply a cold compress to the forehead",
+      "Gentle neck and shoulder stretches"
+    ],
+    "otc": "Simple analgesics such as paracetamol are commonly used for mild headaches, taken as directed on the label.",
+    "warning_signs": "Sudden severe onset, 'worst headache of your life', vision changes, confusion, or a stiff neck.",
+    "consult_if": "Headache persists beyond 2-3 days, recurs frequently, or is accompanied by fever and neck stiffness."
+  },
+  "fever": {
+    "label": "Fever",
+    "synonyms": ["fever", "temperature", "running a temperature", "running hot", "feverish", "chills", "high temp"],
+    "body_parts": [],
+    "remedies": [
+      "Rest and stay hydrated",
+      "Wear light clothing and keep the room cool",
+      "Lukewarm sponging if uncomfortable"
+    ],
+    "otc": "Fever reducers such as paracetamol are commonly used, taken as directed on the label.",
+    "warning_signs": "Fever above 103°F/39.4°C, lasting more than 3 days, or accompanied by rash or breathing trouble.",
+    "consult_if": "Fever in an infant, or fever with severe headache, stiff neck, or confusion."
+  },
+  "soreThroat": {
+    "label": "Sore Throat",
+    "synonyms": ["sore throat", "throat hurts", "throat pain", "throat is itchy", "scratchy throat", "throat is sore"],
+    "body_parts": ["throat"],
+    "remedies": [
+      "Gargle with warm salt water",
+      "Warm fluids such as tea with honey",
+      "Throat lozenges"
+    ],
+    "otc": "Throat lozenges or sprays are commonly used for temporary relief.",
+    "warning_signs": "Difficulty swallowing or breathing, drooling, or rapid worsening.",
+    "consult_if": "Sore throat lasts more than a week or is accompanied by high fever and white patches."
+  },
+  "cough": {
+    "label": "Cough",
+    "synonyms": ["cough", "coughing", "cough that won't stop"],
+    "body_parts": ["chest", "throat"],
+    "remedies": [
+      "Warm fluids with honey",
+      "Steam inhalation",
+      "Stay upright while resting"
+    ],
+    "otc": "Cough drops or an appropriate cough syrup category may help; check labels for age and condition suitability.",
+    "warning_signs": "Coughing up blood, severe breathlessness, or a cough lasting more than 3 weeks.",
+    "consult_if": "Cough persists beyond 2-3 weeks or is accompanied by chest pain or breathlessness."
+  },
+  "commonCold": {
+    "label": "Common Cold",
+    "synonyms": ["cold", "runny nose", "blocked nose", "stuffy nose", "sneezing", "congestion", "nose is blocked"],
+    "body_parts": ["nose"],
+    "remedies": [
+      "Rest and fluids",
+      "Steam inhalation",
+      "Saline nasal rinse"
+    ],
+    "otc": "Decongestants or antihistamines are commonly used short-term; check for interactions.",
+    "warning_signs": "Symptoms lasting beyond 10 days or worsening after initially improving.",
+    "consult_if": "Symptoms don't improve after 10 days or are accompanied by high fever."
+  },
+  "indigestion": {
+    "label": "Indigestion / Acidity",
+    "synonyms": ["indigestion", "acidity", "heartburn", "bloated", "stomach upset", "gas"],
+    "body_parts": ["stomach"],
+    "remedies": [
+      "Small, bland meals",
+      "Avoid spicy or oily food for a day",
+      "Sit upright after eating"
+    ],
+    "otc": "Antacids are commonly used for mild acidity/indigestion, taken as directed.",
+    "warning_signs": "Severe abdominal pain, blood in vomit or stool.",
+    "consult_if": "Pain is severe, persistent, or accompanied by unexplained weight loss."
+  },
+  "stomachDiscomfort": {
+    "label": "Stomach Discomfort",
+    "synonyms": ["stomach ache", "stomach pain", "stomach hurts", "nausea", "nauseous", "throwing up", "vomit", "feel like throwing up", "queasy"],
+    "body_parts": ["stomach"],
+    "remedies": [
+      "Small sips of water",
+      "Bland foods like rice, bananas, and toast",
+      "Rest"
+    ],
+    "otc": "Oral rehydration solutions are commonly used if fluid loss is a concern.",
+    "warning_signs": "Blood in vomit or stool, inability to keep fluids down, severe pain.",
+    "consult_if": "Vomiting persists beyond 24 hours or there are signs of dehydration."
+  },
+  "musclePain": {
+    "label": "Muscle Pain",
+    "synonyms": ["muscle pain", "body ache", "body pain", "sore muscles", "muscles are sore", "aching all over"],
+    "body_parts": ["back", "legs", "arms"],
+    "remedies": [
+      "Gentle stretching",
+      "Rest the affected area",
+      "A warm compress"
+    ],
+    "otc": "Topical pain relief gels are commonly used for localized muscle soreness.",
+    "warning_signs": "Pain with swelling, numbness, or that follows a significant injury.",
+    "consult_if": "Pain is severe, doesn't improve after a few days, or follows an injury."
+  },
+  "minorAllergy": {
+    "label": "Minor Allergy",
+    "synonyms": ["allergy", "allergic", "itchy eyes", "rash", "hives", "itchy skin"],
+    "body_parts": ["eyes", "skin"],
+    "remedies": [
+      "Avoid the suspected trigger",
+      "Cool compress for itchy skin or eyes",
+      "Keep the area clean and dry"
+    ],
+    "otc": "Antihistamines are commonly used for minor allergic reactions.",
+    "warning_signs": "Swelling of the face or throat, difficulty breathing, or a rapidly spreading rash.",
+    "consult_if": "Reaction spreads quickly, or breathing/swallowing is affected — this can be an emergency."
+  }
+}
